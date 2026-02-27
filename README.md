@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://ateeqportfolio.netlify.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,10,25&height=250&section=header&text=Portfolio%20Website&fontSize=60&fontColor=ffffff&animation=twinkling&desc=With%20Intractive%20And%20UI%20&descSize=20&descAlignY=75&fontAlignY=40" width="100%" alt="Header" /></a><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=⚡+HTML;⚙️+CSS+%7C+JavaScript;🚀+Click+the+Preview+Button+Below!" alt="Tech Stack Animation" /><br><br>
+  <a href="https://ateeqportfolio.netlify.app/"><img src="https://img.shields.io/badge/🚀_CLICK_HERE_FOR_LIVE_PREVIEW-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" width="400" alt="Live Preview" /></a>
+</p>
+<hr>
+
 # DAR Portfolio
 
 A modern, responsive personal portfolio website showcasing professional experience, skills, and projects with an elegant dark theme and interactive design.
